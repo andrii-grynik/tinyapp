@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/andrii-grynik/tinyapp/issues"
   },
-  "homepage": "https://github.com/andrii-grynik/tinyapp#readme"
+  "homepage": "https://github.com/andrii-grynik/tinyapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
