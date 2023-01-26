@@ -12,7 +12,7 @@ TinyApp is buld with HTML and Javascrips with Node and Exrpess moduling, it allo
 
 
 # Dependencies
-*bcrypt
+[x]bcrypt
 *body-parser
 *cookie - session
 *EJS
