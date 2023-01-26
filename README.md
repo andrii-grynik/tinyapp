@@ -12,13 +12,13 @@ TinyApp is buld with HTML and Javascrips with Node and Exrpess moduling, it allo
 
 
 # Dependencies
-1.bcrypt
-2.body-parser
-3,cookie - session
-4.EJS
-5.Express
-6.morgan
-7.Bode.js
+* bcrypt
+* body-parser
+* cookie - session
+* EJS
+* Express
+* morgan
+* Bode.js
 
 #Test/Dev Dependencies
 chai
