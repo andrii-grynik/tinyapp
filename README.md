@@ -21,10 +21,10 @@ TinyApp is buld with HTML and Javascrips with Node and Exrpess moduling, it allo
 * Bode.js
 
 #Test/Dev Dependencies
-chai
-mocha
-nodemon (as an option)
+* chai
+* mocha
+* nodemon (as an option)
 
 # Work Flow
-*Insatll dependencies by using npm istall for modules. 
-*Run web server with node express_server.js OR npm start(local directory)
+* Insatll dependencies by using npm istall for modules. 
+* Run web server with node express_server.js OR npm start(local directory)
