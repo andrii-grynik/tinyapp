@@ -1,2 +1,1 @@
-# tinyapp
-url shortener
+** Tiny App Project (Andrii Grynik)  **
