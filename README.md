@@ -5,4 +5,4 @@ TinyApp is buld with HTML and Javascrips with Node and Exrpess moduling, it allo
 
 ## Pictures of end product.
 
-![My Image](support_files/URL converter.jpg)
+![URL converter](support_files/URL converter.jpg)
