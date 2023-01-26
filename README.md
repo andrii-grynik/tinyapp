@@ -1,1 +1,2 @@
-** Tiny App Project (Andrii Grynik)  **
+# Tiny App Project (Andrii Grynik)
+
