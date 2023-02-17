@@ -18,7 +18,7 @@ TinyApp is buld with HTML and Javascrips with Node and Exrpess , it allows users
 * EJS
 * Express
 * morgan
-* Bode.js
+* Node.js
 
 # Test/Dev Dependencies
 * chai
